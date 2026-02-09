@@ -6,7 +6,7 @@
 
 Welcome to the README for my personal GitHub page. I am a US Navy veteran of 8 years, where I served as a Mass Communication Specialist and 
 a Master-at-Arms. Once I decided to transition out of the military, I attended an 18-week software engineering bootcamp as part of the DoD 
-Skillbridge program and really ignited a passion for programming and building things with code. After the bootcamp, I decided to pursue 
+Skillbridge program and really ignited a passion for programming and building things with code. After the coding bootcamp, I decided to pursue 
 a degree in Computer Science, completing my associate's degree at Tidewater Community College in December of 2025. After Tidewater, I transferred
 to Old Dominion University where I am working towards my bachelor's degree with an expected graduation in Spring 2027 (*Go Monarchs!*). Although 
 I'm open to working almost anywhere in the industry, my ideal career would either be to continue my service working with the federal government 
